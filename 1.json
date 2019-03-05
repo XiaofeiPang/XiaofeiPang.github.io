@@ -1,0 +1,14 @@
+{
+  "Tom": {
+    "name1": "Tom",
+    "age": 24,
+  "gender": "male",
+  "married": "false",
+  "courses": [
+    "Java",
+    "C++",
+    "Database"
+  ]
+
+}
+}
